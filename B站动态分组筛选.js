@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         B站动态分组筛选助手
+// @name         B站动态分组筛选
 // @name:en      Bilibili Moments Group Filter
 // @namespace    GZ2000COM
 // @author       GZ2000COM
