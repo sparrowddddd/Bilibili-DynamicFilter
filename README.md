@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果4.jpg" width="20%">
   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果5.jpg" width="20%">
 </p>
-<p>
+<p align="center">
    <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果2.png" width="20%">
 </p>
 
