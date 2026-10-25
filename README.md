@@ -5,12 +5,12 @@
 效果如下：
 ![](https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果1.jpg)
 <p align="center" style="width:100%">
-  <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果3.jpg" width="20%">
-  <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果4.jpg" width="20%">
-  <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果5.jpg" width="20%">
+  <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果3.jpg" width="33%">
+  <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果4.jpg" width="33%">
+  <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果5.jpg" width="33%">
 </p>
 <p align="center">
-   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果2.png" width="20%">
+   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果2.png" width="80%">
 </p>
 
 # 安装
