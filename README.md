@@ -4,7 +4,7 @@
 需搭配<a href="https://github.com/the1812/Bilibili-Evolved">Bilibili-Evolved</a>中的动态功能食用
 效果如下：
 ![](https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果1.jpg)
-<p align="center">
+<p align="center" style="width:100%">
   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果3.jpg" width="20%">
   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果4.jpg" width="20%">
   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果5.jpg" width="20%">
