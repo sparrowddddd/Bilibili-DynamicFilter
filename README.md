@@ -15,3 +15,10 @@
 - ☑️筛选器可以对分组进行更细致的筛选，蓝色为“只看”，红色为“不看”，内容同理；可自定义显示的列数、宽窄屏显示，宽屏时只显示动态页
 - ☑️视频动态封面最大化显示，左下角显示播放数和时长
 - ☑️转发、评论、点赞移动到右上角，点击可以展开收起
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/赞赏.png" width="25%">
+</p>
+
+# 许可
+
+[MIT](LICENSE)
