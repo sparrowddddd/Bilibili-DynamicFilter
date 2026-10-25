@@ -5,15 +5,17 @@
 效果如下：
 ![](https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果1.jpg)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果2.png" width="20%">
   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果3.jpg" width="20%">
   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果4.jpg" width="20%">
   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果5.jpg" width="20%">
 </p>
+<p>
+   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/效果2.png" width="20%">
+</p>
 
 # 安装
 
-[GreasyFork]((https://greasyfork.org/zh-CN/scripts/602067))
+[GreasyFork](https://greasyfork.org/zh-CN/scripts/602067)
 
 # 功能
 
@@ -22,6 +24,8 @@
 - ☑️筛选器可以对分组进行更细致的筛选，蓝色为“只看”，红色为“不看”，内容同理；可自定义显示的列数、宽窄屏显示，宽屏时只显示动态页
 - ☑️视频动态封面最大化显示，左下角显示播放数和时长
 - ☑️转发、评论、点赞移动到右上角，点击可以展开收起
+
+# 支持
 <p align="center">
   <img src="https://raw.githubusercontent.com/sparrowddddd/Bilibili-DynamicFilter/main/images/赞赏.png" width="25%">
 </p>
